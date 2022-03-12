@@ -1,0 +1,79 @@
+{
+	"name": "Enoristorante Boccaccio",
+	"short_name": "Boccaccio",
+    "description": "Vieni a trovarci nel comune di Gavorrano a Caldana (Grosseto), in uno dei ristoranti tipici della Maremma con un'ampia scelta dei migliori vini toscani",
+	"lang": "it",
+	"start_url": "https://www.enoristoranteboccaccio.it/EN/",
+	"background_color": "#59090c",
+	"theme_color": "#ffffff",
+	"display": "standalone",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "/Logos/android-chrome-192x192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/Logos/apple-icon-180x180.png",
+			"type": "image/png",
+			"sizes": "180x180"
+		},
+		{
+			"src": "/Logos/apple-icon-152x152.png",
+			"type": "image/png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "/Logos/apple-icon-144x144.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "/Logos/apple-icon-120x120.png",
+			"type": "image/png",
+			"sizes": "120x120"
+		},
+		{
+			"src": "/Logos/apple-icon-114x114.png",
+			"type": "image/png",
+			"sizes": "114x114"
+		},
+		{
+			"src": "/Logos/android-icon-96x96.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "/Logos/apple-icon-76x76.png",
+			"type": "image/png",
+			"sizes": "76x76"
+		},
+		{
+			"src": "/Logos/apple-icon-72x72.png",
+			"type": "image/png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "/Logos/apple-icon-60x60.png",
+			"type": "image/png",
+			"sizes": "60x60"
+		},
+		{
+			"src": "/Logos/apple-icon-57x57.png",
+			"type": "image/png",
+			"sizes": "57x57"
+		},
+		{
+			"src": "/Logos/favicon-32x32.png",
+			"type": "image/png",
+			"sizes": "32x32"
+		},
+		{
+			"src": "/Logos/favicon-16x16.png",
+			"type": "image/png",
+			"sizes": "16x16"
+		}
+	],
+	"prefer_related_applications": false
+}
